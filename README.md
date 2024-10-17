@@ -16,7 +16,7 @@ I aim to contribute to innovative projects that make a transformative impact on 
 
 ## 🔧 Skills
 
-- **Cloud Technologies**: Google Cloud Platform ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=googlecloud&logoColor=white)]
+- **Cloud Technologies**: Google Cloud Platform ![Google Cloud](https://img.shields.io/badge/googlecloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white)]
 - **Languages**: Python, JavaScript, HTML/CSS, SQL
 - **Tools & Technologies**: Docker, Kubernetes, Terraform
 - **Areas of Expertise**: Cloud architecture, application deployment, virtualization, networking, cloud security
