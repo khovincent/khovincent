@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Eric Vincent Kho 👋
 
 🚀 **Cloud Computing Student | Bangkit Academy 2024 Cloud Computing Cohort | Aspiring Cloud Engineer**
 
@@ -16,8 +16,8 @@ I aim to contribute to innovative projects that make a transformative impact on 
 
 ## 🔧 Skills
 
-- **Cloud Technologies**: Google Cloud Platform, AWS
-- **Languages**: Python, JavaScript, HTML/CSS
+- **Cloud Technologies**: Google Cloud Platform
+- **Languages**: Python, JavaScript, HTML/CSS, SQL
 - **Tools & Technologies**: Docker, Kubernetes, Terraform
 - **Areas of Expertise**: Cloud architecture, application deployment, virtualization, networking, cloud security
 
@@ -25,8 +25,7 @@ I aim to contribute to innovative projects that make a transformative impact on 
 
 ## 🔭 Current Projects
 
-- [License Plate Recognition App](https://github.com/yourusername/license-plate-recognition): A cloud-based application using computer vision techniques to detect and extract license plate numbers. Deployed on Digital Ocean with Docker.
-- [Cloud Deployment Scripts](https://github.com/yourusername/deployment-scripts): Automation scripts for deploying cloud infrastructure using Terraform.
+- [License Plate Recognition App](https://vps.ericvinn.my.id/): A cloud-based application using computer vision techniques to detect and extract license plate numbers. Deployed on Digital Ocean with Docker.
 
 ---
 
@@ -38,9 +37,8 @@ I aim to contribute to innovative projects that make a transformative impact on 
 
 ## 🤝 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Email**: [Your Email](mailto:youremail@example.com)
-- **Website**: [Your Portfolio](https://yourwebsite.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ericvkho/)
+- **Email**: [Your Email](ericvincentkho@gmail.com)
 
 ---
 
