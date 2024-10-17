@@ -37,8 +37,8 @@ I aim to contribute to innovative projects that make a transformative impact on 
 
 ## 🤝 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ericvkho/)
-- **Email**: [Your Email](ericvincentkho@gmail.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ericvkho/)
+- **Email**: [Email](ericvincentkho@gmail.com)
 
 ---
 
