@@ -31,7 +31,7 @@ I aim to contribute to innovative projects that make a transformative impact on 
 
 ## 📈 GitHub Stats
 
-![khovincent](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- [khovincent](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
